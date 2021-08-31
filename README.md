@@ -1,2 +1,3 @@
 # hello-world
-Introduction to Github
+I'm Ayush Khandelwal.
+Currently pursuing B.Tech from JIIT, Noida.
